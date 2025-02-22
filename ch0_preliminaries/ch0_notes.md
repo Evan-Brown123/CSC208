@@ -8,6 +8,4 @@ The four main topics are combinatorics, sequences, symbolic logic, and graph the
 
 ## What are discrete structures? Which specific examples are listed in the chapter? Briefly describe each of these.
 
-Discrete structures: "They are the mathematical objects that we use to represent parts of the problems we are solving." The ones listed in the chapter are sets, functions, sequences, relations, and graphs. Sets are a collection of items. Functions are a relation between two sets where each item in the first set is related to exactly one item in the second set. Sequences are a list of items in a specific order. Relations are a set of ordered pairs. Graphs are a set of vertices. 
-
-
+Discrete structures: "They are the mathematical objects that we use to represent parts of the problems we are solving." The ones listed in the chapter are sets, functions, sequences, relations, and graphs. Sets are a collection of items. Functions are a relation between two sets where each item in the first set is related to exactly one item in the second set. Sequences are a list of items in a specific order. Relations are a set of ordered pairs. Graphs are a set of vertices.
