@@ -22,4 +22,4 @@ This converse is false because the ground can be wet for reasons other than rain
 So, while the original implication is true, the converse is not necessarily true because it assumes that rain is the only cause for the ground being wet, which is not correct.
 
 ## What questions do you have after reading this section? Write at least one question about the content of this section that you are curious about.
-Im curious to 
+Im curious to figure out how all of this vocabulary can be used in not only programming but in general.
