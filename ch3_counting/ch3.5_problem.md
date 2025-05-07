@@ -24,8 +24,12 @@ I choose 5 **distinct** digits from 6 and arranging them in increasing order.
 There is only **one** way to arrange any set of distinct digits in increasing order.
 
 So, the number of such numbers is:
+
 $$
-\binom{6}{5} = \frac{6!}{5!(6 - 5)!} = \frac{6!}{5! \cdot 1!} = \frac{6 \times 5 \times 4 \times 3 \times 2 \times 1}{(5 \times 4 \times 3 \times 2 \times 1)(1)} = \frac{720}{120} = 6
+\binom{6}{5} = \frac{6!}{5!(6 - 5)!} 
+= \frac{6!}{5! \cdot 1!} 
+= \frac{6 \times 5 \times 4 \times 3 \times 2 \times 1}{(5 \times 4 \times 3 \times 2 \times 1)(1)} 
+= \frac{720}{120} = 6
 $$
 
 ---
