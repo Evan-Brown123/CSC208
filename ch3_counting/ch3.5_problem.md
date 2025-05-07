@@ -28,7 +28,7 @@ So, the number of such numbers is:
 $$
 \binom{6}{5} = \frac{6!}{5!(6 - 5)!} 
 = \frac{6!}{5! \cdot 1!} 
-= \frac{6 \times 5 \times 4 \times 3 \times 2 \times 1}{(5 \times 4 \times 3 \times 2 \times 1)(1)} 
+= \frac{6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1}{(5 \cdot 4 \cdot 3 \cdot 2 \cdot 1)(1)} 
 = \frac{720}{120} = 6
 $$
 
@@ -57,7 +57,7 @@ where $n = 5$ (number of digits to choose), and $k = 6$ (distinct digits):
 $$
 \binom{5 + 6 - 1}{6 - 1} = \binom{10}{5}
 = \frac{10!}{5! \cdot 5!}
-= \frac{10 \times 9 \times 8 \times 7 \times 6}{5 \times 4 \times 3 \times 2 \times 1}
+= \frac{10 \cdot 9 \cdot 8 \cdot 7 \cdot 6}{5 \cdot 4 \cdot 3 \cdot 2 \cdot 1}
 = \frac{30240}{120} = 252
 $$
 
